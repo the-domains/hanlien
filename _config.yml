@@ -1,7 +1,7 @@
 name: HanLien
 favicon: null
-layout_spectrum: 0.48909175815060735
-typography_spectrum: 0.8312563779763877
+layout_spectrum: 1
+typography_spectrum: 0.86222
 title: 'Han Lien | Tech Savvy Marketing & Information Systems Professional'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#c7cacf'
     - '#787f8c'
     - '#283347'
-  brandStrength: 0.5
+  brandStrength: 0.8125
   lightness: 0.15703976922668517
   saturation: 0.8952596036251634
   rhythmicContrast: 0.23776976740919054
