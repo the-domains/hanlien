@@ -4,7 +4,7 @@
         <description><![CDATA[Han Lien | Tech Savvy Marketing & Information Systems Professional]]></description>
         <link>https://thegrid.ai/hanlien/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 23:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 23:24:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hanlien/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/hanlien/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">892092ff-7da4-4cde-8f6e-87a029285424</guid>
             <pubDate>Tue, 17 Nov 2015 23:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Page Development]]></title>
-            <description><![CDATA[<article><h1>New Page Development</h1><p>New Site Development Coming Soon</p></article>]]></description>
-            <link>https://thegrid.ai/hanlien/new-page-development/index.html</link>
-            <guid isPermaLink="false">05c71152-c8e9-4ae0-808c-da1222bed9c9</guid>
-            <pubDate>Tue, 17 Nov 2015 22:53:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
