@@ -2,12 +2,13 @@ name: HanLien
 favicon: null
 layout_spectrum: 0.48909175815060735
 typography_spectrum: 0.8312563779763877
+title: 'Han Lien | Tech Savvy Marketing & Information Systems Professional'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-37370380-1
   facebook: null
   twitter: null
 opengraph:
