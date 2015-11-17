@@ -1,0 +1,23 @@
+name: HanLien
+favicon: null
+layout_spectrum: 0.48909175815060735
+typography_spectrum: 0.8312563779763877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5248980855103582
+  lightness: 0.15703976922668517
+  saturation: 0.8952596036251634
+  rhythmicContrast: 0.23776976740919054
+purpose: []
